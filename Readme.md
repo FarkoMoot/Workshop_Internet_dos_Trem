@@ -38,3 +38,5 @@ Clique em OK para retornar à tela principal da IDE
 ![ide-gerenciador-de-placas](https://user-images.githubusercontent.com/8213622/38134375-1bf32ce0-33e9-11e8-912b-9acff9868631.png)
 
 ##### Após alguns minutos as placas da linha ESP8266 já estarão disponíveis na lista de placas da IDE do Arduino.
+
+![ide-selecai-placa]https://user-images.githubusercontent.com/8213622/38134376-1c1656de-33e9-11e8-8147-49705543512f.png
